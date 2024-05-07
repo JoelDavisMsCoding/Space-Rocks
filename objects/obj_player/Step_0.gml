@@ -2,17 +2,17 @@
 // You can write your code in this editor
 if (keyboard_check(vk_up))
 {
-y -=1
+y -=3
 }
 if (keyboard_check(vk_down))
 {
-y +=1
+y +=3
 }
 if (keyboard_check(vk_right))
 {
-x +=1
+x +=3
 }
 if (keyboard_check(vk_left))
 {
-x -=1
+x -=3
 }
